@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Introduction to Programming TK1</string>
+    <string name="app_name1">TEAM 2</string>
+    <string name="s_nama1">Dharma Saputra - 2301966841</string>
+    <string name="s_nama2"> Gladis Ladisadewi - 2301966564</string>
+    <string name="s_nama3">Nur Diarto - 2301968506</string>
+    <string name="s_nama4">Yoga Anggara Daswara - 2301968815</string>
+    <string name="s_nama5">Yusuf Agung Tri Wibowo - 2301966141</string>
+    <string name="lb1">Masukan jumlah kilogram yang akan di konversi </string>
+    <string name="lb2">Kg</string>
+</resources>
